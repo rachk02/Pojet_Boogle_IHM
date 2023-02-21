@@ -1,1 +1,3 @@
-# Pojet_Boogle_IHM
+#Grouppe J
+FOFANA Abdou-rachid
+SAWADOGO Abdoul Aziz
