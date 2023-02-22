@@ -1,0 +1,13 @@
+.bg{
+	background-size: cover;
+	max-height: 100%;	
+}
+
+.bgk{
+	background-size: cover;
+	max-height: 100%;
+}
+
+#txt{
+	color: red;
+}
